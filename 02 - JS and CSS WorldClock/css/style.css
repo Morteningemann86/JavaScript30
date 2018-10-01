@@ -15,7 +15,7 @@ body {
 
 .clock {
   border-radius: 50%;
-  background: radial-gradient(#000, #000 0.1em, #fff 0.1em, #fff), #fff;
+  background: rgba(255, 255, 255, 0.6);
   display: inline-block;
   margin: 1%;
   padding-bottom: 31%;
